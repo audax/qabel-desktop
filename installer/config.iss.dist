@@ -38,7 +38,7 @@ english.licenseFile=en_license.rtf
 german.licenseFile=de_license.rtf
 english.termsFile=en_terms.txt
 german.termsFile=de_terms.txt
-english.policyFile=de_policy.txt
+english.policyFile=en_policy.txt
 german.policyFile=de_policy.txt
 
 english.DeleteConfig=Do you want to delete the configuration file?
